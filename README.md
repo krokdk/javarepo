@@ -1,2 +1,2 @@
 # javarepo
-for my practice have projects
+for my practice Jave projects
